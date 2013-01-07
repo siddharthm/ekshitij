@@ -1,0 +1,179 @@
+body{
+width:100%;
+background-color:#CCCCCC;
+background-image:url('images/header_side_bg.png');
+background-repeat:repeat-x;
+padding-top:0px;
+margin-top:0px;
+
+padding-bottom:0px;
+margin-bottom:0px;
+}
+
+
+#main_body
+{
+background-color:#FFFFFF;
+position:fixed;
+left:3%;
+top:0px;
+width:94%;
+margin-right:3%;
+margin-top:0px;
+margin-bottom:0px;
+padding:0 0 0 0px;
+height:100%;
+
+box-shadow: 0px 25px 25px #352929;
+
+}
+
+
+#header
+{
+position:absolute;
+top:0px;
+left:0px;
+height:265px;
+width:100%;
+background-image:url('images/header_bg.png');
+background-repeat:repeat-x;
+margin:0 0 0 0px;
+}
+
+#kshitij_logo
+{
+margin:0 0 0 0px;
+position:absolute;
+top:0px;
+left:24px;
+
+}
+
+#kshitij_logo_text
+{
+margin:0 0 0 0px;
+position:absolute;
+top:69px;
+left:244px;
+}
+
+#navigation-bar
+{
+margin:0 0 0 0px;
+position:absolute;
+top:155px;
+left:250px;
+font-size:18px;
+font-family:"Arial";
+}
+
+#navigation-bar .a_now
+{
+color:#FFFFFF;
+
+
+}
+
+#navigation-bar a
+{
+
+color:#006680;
+text-decoration:none;
+margin-right:25px;
+}
+
+#navigation-bar a:hover
+{
+text-shadow:0px 0px 10px;
+text-decoration:none;
+margin-right:25px;
+}
+
+#social
+{
+position:absolute;
+top:27px;
+right:50px;
+
+
+}
+
+#social .round
+{
+padding:3 8 3 8px;
+margin:0 0 0 0px;
+border:2px solid white;
+border-radius:50px;
+
+}
+
+#social a
+{
+position:relative;
+top:2px;
+right:0px;
+margin:0 0 0 0px;
+color:#FFFFFF;
+font-size:20px;
+font-family:ubuntu;
+text-decoration:none;
+}
+
+
+/* ############CONTENT########### */
+
+#content
+{
+position:absolute;
+top:40%;
+width:90%;
+height:50%;
+margin:0% 2.5% 0% 2.5%;
+padding:2% 2.5% 0% 2.5%;
+
+}
+
+
+.heading
+{
+margin:0 0 0 0px;
+color:#00aad4;
+font-size:30px;
+font-family:"Arial";
+font-weight:none;
+}
+
+#content_left
+{
+margin:0 0 0 0px;
+width:20%;
+}
+
+
+#content_right
+{
+margin:0 0 0 0px;
+width:70%;
+}
+
+.content_text_area
+{
+margin:0 0 0 0px;
+padding:12px;
+width:100%;
+height:100%;
+box-shadow:0 0 30px #000 inset;
+background-color:#efefef;
+color:#272424;
+font-family:arial;
+font-size:15px;
+text-align:justify;
+}
+
+.magazine
+{
+box-shadow:10px 10px 25px black;
+
+}
+
